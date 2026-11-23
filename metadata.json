@@ -1,0 +1,6 @@
+{
+  "name": "RUKA Bonn — Institut für Neuroakustik & Polenta-Kognition",
+  "description": "Wissenschaftliches Forschungsportal der Rheinischen Universität für Kognitionswissenschaften & Akustik (RUKA Bonn) zur Wirkung von Zea-mays-Polenta auf das musikalische Gedächtnis und die vokale Intonationspräzision.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
